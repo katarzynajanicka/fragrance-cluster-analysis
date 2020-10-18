@@ -6,6 +6,7 @@ K-means clustering on the fragrance accords
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
+* [Results](#results)
 * [Status](#status)
 
 ## General info
@@ -26,7 +27,7 @@ Python libraries:
 
 **Project structure**
 
-**Conclusions**
+## Results
 
 ## Status
 This project is in progress.
