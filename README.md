@@ -14,6 +14,9 @@ K-means clustering on the fragrance accords
 
 ## General info
 
+Input data: perfume.csv, source: https://www.kaggle.com/sagikeren88/fragrances-and-perfumes
+Output data: fragrances.ipynb
+
 ## Technologies
 Project is created with Python - version: 3.8.5.
 
