@@ -15,9 +15,9 @@ K-means clustering on the fragrance accords
 Project is created with Python - version: 3.8.5.
 
 Python libraries:
-* nltk - version 3.5
 * pandas - version 1.1.1
 * numpy - version 1.19.1
+* nltk - version 3.5
 * matplotlib - version 3.3.1
 * seaborn - version 0.10.1
   
