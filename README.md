@@ -14,10 +14,7 @@ K-means clustering on the fragrance accords
 * [Status](#status)
 
 ## General info
-
-Input data: perfume.csv, source: https://www.kaggle.com/sagikeren88/fragrances-and-perfumes
-
-Output data: fragrances.ipynb
+Unsupervised machine learning project with K-Means clustering performed on different fragrances.
 
 ## Technologies
 Project is created with Python - version: 3.8.5.
@@ -32,7 +29,13 @@ Python libraries:
   
 ## Setup
 
+Input data: perfume.csv, source: https://www.kaggle.com/sagikeren88/fragrances-and-perfumes
+
+Output data: fragrances.ipynb
+
 ## Screenshots
+
+**Objectives**
 
 **Project structure**
 
