@@ -37,7 +37,11 @@ Output data: fragrances.ipynb
 
 **Objectives**
 
+![](./screenshots/objective.png)
+
 **Project structure**
+
+![](./screenshots/content.png)
 
 ## Results
 
