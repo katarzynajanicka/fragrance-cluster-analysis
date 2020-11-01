@@ -14,7 +14,7 @@ K-means++ clustering on fragrance accords
 * [Status](#status)
 
 ## General info
-Unsupervised machine learning project with K-Means clustering performed on different fragrances.
+Unsupervised machine learning project with K-Means++ clustering performed on different fragrances.
 
 ## Technologies
 Project is created with Python - version: 3.8.5.
