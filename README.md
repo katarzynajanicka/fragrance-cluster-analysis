@@ -1,5 +1,5 @@
 # fragrance-cluster-analysis
-K-means++ clustering on fragrance accords
+K-means++ clustering on female fragrance accords
 
 <img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/scikitlearn-0.23.2-blue'> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src="https://img.shields.io/badge/yellowbrick-1.1 -blue"> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <br>
 <img src="https://img.shields.io/badge/unsupervised-machine--learning-ff69b4"> <img src="https://img.shields.io/badge/cluster-analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4">
@@ -14,7 +14,7 @@ K-means++ clustering on fragrance accords
 * [Status](#status)
 
 ## General info
-Unsupervised machine learning project with K-Means++ clustering performed on different fragrances.
+Unsupervised machine learning project with K-Means++ clustering performed on different female fragrances.
 
 ## Technologies
 Project is created with Python - version: 3.8.5.
@@ -45,7 +45,7 @@ Output data: fragrances.ipynb
 
 ## Results
 
-**1. Data exploration**
+**Data exploration**
 
 ![](./screenshots/columns.png)
 
@@ -59,7 +59,7 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/fragrancefamily.png)
 
-**C2. Choosing the right number of clusters**
+**Choosing the right number of clusters**
 
 ![](./screenshots/elbow.png)
 
@@ -77,15 +77,17 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/silhouette19.png)
 
-**3. Four fragrance clusters**
+**Four fragrance clusters**
 
 ![](./screenshots/4clusters.png)
 
 ![](./screenshots/4clustersindata.png)
 
-**4. Most popular fragrances**
+**Most popular fragrances**
 
 ![](./screenshots/mostpopular.png)
+
+**Conclusions**
 
 ## Status
 This project is in progress.
