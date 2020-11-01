@@ -45,5 +45,37 @@ Output data: fragrances.ipynb
 
 ## Results
 
+![](./screenshots/columns.png)
+
+![](./screenshots/df.png)
+
+![](./screenshots/rating.png)
+
+![](./screenshots/accord.png)
+
+![](./screenshots/splitaccords.png)
+
+![](./screenshots/fragrancefamily.png)
+
+![](./screenshots/elbow.png)
+
+![](./screenshots/elbowviz.png)
+
+![](./screenshots/4clusters.png)
+
+![](./screenshots/4clustersindata.png)
+
+![](./screenshots/silhouette.png)
+
+![](./screenshots/silhouette4.png)
+
+![](./screenshots/silhouette6.png)
+
+![](./screenshots/silhouette10.png)
+
+![](./screenshots/silhouette14.png)
+
+![](./screenshots/silhouette19.png)
+
 ## Status
 This project is in progress.
