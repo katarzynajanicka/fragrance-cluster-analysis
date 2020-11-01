@@ -45,7 +45,7 @@ Output data: fragrances.ipynb
 
 ## Results
 
-**Data exploration**
+**1. Data exploration**
 
 ![](./screenshots/columns.png)
 
@@ -59,7 +59,7 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/fragrancefamily.png)
 
-**Choosing the right number of clusters**
+**C2. Choosing the right number of clusters**
 
 ![](./screenshots/elbow.png)
 
@@ -77,13 +77,13 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/silhouette19.png)
 
-**Four fragrance clusters**
+**3. Four fragrance clusters**
 
 ![](./screenshots/4clusters.png)
 
 ![](./screenshots/4clustersindata.png)
 
-**Most popular fragrances**
+**4. Most popular fragrances**
 
 ![](./screenshots/mostpopular.png)
 
