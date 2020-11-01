@@ -83,5 +83,9 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/4clustersindata.png)
 
+**Most popular fragrances**
+
+![](./screenshots/mostpopular.png)
+
 ## Status
 This project is in progress.
