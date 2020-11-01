@@ -45,6 +45,8 @@ Output data: fragrances.ipynb
 
 ## Results
 
+**Data exploration**
+
 ![](./screenshots/columns.png)
 
 ![](./screenshots/df.png)
@@ -57,13 +59,11 @@ Output data: fragrances.ipynb
 
 ![](./screenshots/fragrancefamily.png)
 
+**Choosing the right number of clusters**
+
 ![](./screenshots/elbow.png)
 
 ![](./screenshots/elbowviz.png)
-
-![](./screenshots/4clusters.png)
-
-![](./screenshots/4clustersindata.png)
 
 ![](./screenshots/silhouette.png)
 
@@ -76,6 +76,12 @@ Output data: fragrances.ipynb
 ![](./screenshots/silhouette14.png)
 
 ![](./screenshots/silhouette19.png)
+
+**Four fragrance clusters**
+
+![](./screenshots/4clusters.png)
+
+![](./screenshots/4clustersindata.png)
 
 ## Status
 This project is in progress.
