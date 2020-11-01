@@ -44,11 +44,13 @@ Output data: fragrances.ipynb
 
 ## Results
 
-**Data exploration**
+**Data structure**
 
 ![](./screenshots/columns.png)
 
 ![](./screenshots/df.png)
+
+**Data exploration**
 
 ![](./screenshots/rating.png)
 
