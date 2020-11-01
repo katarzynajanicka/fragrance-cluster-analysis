@@ -90,5 +90,13 @@ Output data: fragrances.ipynb
 
 **Conclusions**
 
+Clustering, like other unsupervised machine learning algorithms, is very exploratory in nature.
+
+The weakness of the K-means algorithm (and its optimized K-means++ version deployed in this analysis) is the need to determine the number of clusters in advance. However, additional metrics such as distortion used in the elbow method or silhouette coefficient may be helpful in choosing the number of clusters a priori. The number of clusters should be primarily determined based on the business needs.
+
+Cluster descriptions show the general, average characteristics of the members of a given cluster (cluster centroids). One cluster may share the same characteristics with other clusters. On the basis of the analyzed data, the division into four categories of perfumes (fresh, floral, oriental and woody) turned out to be the most accurate.
+
+Agglomerative hierarchical clustering technique may be a more correct approach as the different perfumes have a large overlap in fragrance accords. Perfume fragrances usually have the same chords, although they belong to different fragrance families.
+
 ## Status
 This project is in progress.
