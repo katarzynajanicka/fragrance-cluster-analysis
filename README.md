@@ -10,7 +10,6 @@ K-means++ clustering on fragrance accords
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
-* [Results](#results)
 * [Status](#status)
 
 ## General info
