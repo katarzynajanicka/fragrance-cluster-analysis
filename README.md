@@ -4,7 +4,6 @@ K-means++ clustering on fragrance accords
 <img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/scikitlearn-0.23.2-blue'> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src="https://img.shields.io/badge/yellowbrick-1.1 -blue"> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <br>
 <img src="https://img.shields.io/badge/unsupervised-machine--learning-ff69b4"> <img src="https://img.shields.io/badge/cluster-analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4">
 
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -14,6 +13,11 @@ K-means++ clustering on fragrance accords
 
 ## General info
 Unsupervised machine learning project with K-Means++ clustering performed on different female fragrances.
+
+This project is part of my fragrance exploration series:
+1. K-means++ clustering on fragrance accords - https://github.com/katarzynajanicka/fragrance-clustering
+2. Agglomerative hierarchical clustering on 39.7K female fragrances - https://github.com/katarzynajanicka/agglomerative-fragrance-clustering
+3. Accords-based recommendation system for female fragrances - https://github.com/katarzynajanicka/fragrance-finder
 
 ## Technologies
 Project is created with Python - version: 3.8.2.
